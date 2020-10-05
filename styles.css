@@ -1,0 +1,231 @@
+
+.image1{
+  width: 1511px;
+  position: relative;
+  bottom: 70px;
+  right: 7.25px;
+}
+.image2{
+  width: 1500px;
+margin-bottom: 1100px;
+}
+.ah{
+  font-family: 'Montserrat', sans-serif;
+font-size: 2rem;
+  position: relative;
+  bottom:200px;
+  margin-left: 800px;
+bottom:1400px;
+font-family: 'Fredoka One', cursive;
+color:black;
+}
+.header{
+position: relative;
+text-align: center;
+bottom: 500px;
+}
+.he1{
+font-family: 'Montserrat', sans-serif;
+  color:white;
+  font-size: 50px;
+}
+.he2{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+.links{
+position: relative;
+bottom: 840px;
+}
+
+
+:root {
+  --mainColor:#00bcd4;
+}
+
+
+.a1 {
+  padding-right: .5rem;
+    padding-left: .5rem;
+    font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  background:
+     linear-gradient(
+       to right,
+       var(--mainColor) 0%,
+       var(--mainColor) 5px,
+       transparent 5px
+     );
+    background-repeat: repeat-x;
+    background-size: 100%;
+  color: #000;
+  padding-left: 10px;
+  text-decoration: none;
+}
+
+.a1:hover {
+  background:
+     linear-gradient(
+       to right,
+       var(--mainColor) 0%,
+       var(--mainColor) 5px,
+       transparent
+
+     );
+}
+
+.middle{
+  position: relative;
+  bottom: 200px;
+  margin-left: 100px;
+  border: 100px;
+  color: #2174c6;
+}
+.middle1{
+  position: relative;
+  bottom: 430px;
+  margin-left: 550px;
+  color: #2174c6;
+
+}
+.middle2{
+  position: relative;
+  bottom: 660px;
+  margin-left: 1020px;
+  color: #2174c6;
+
+}
+.lines{
+}
+.icon1{
+  font-size: 60px;
+    font-style: center-align;
+    margin-left: 75px;
+    color:#2174c6 ;
+}
+.icon1:hover{
+
+  color:black ;
+
+}
+.icon2{
+  font-size: 60px;
+margin-left: 100px;
+color:#2174c6 ;
+
+}
+.icon2:hover{
+
+  color:black ;
+
+}
+.icon3{
+  font-size: 60px;
+  margin-left: 50px;
+color:#2174c6 ;
+}
+.icon3:hover{
+
+  color:black ;
+
+}
+
+.hes{
+  font-size: 30px;
+    font-style: center-align;
+    margin-left: 12px;
+}
+.wholedivs{
+margin-top: 80px;
+height: 200px;
+}
+.aboutus{
+  background-color:#8d6e63;
+  height: 350px;
+  width: 1511px;
+  color:white;
+  border-left-width: 50px;
+  border-color:#e0ece4 ;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  font-size: 30px;
+
+}
+.aaboutus{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+
+}
+.entire{
+  text-align: center;
+}
+
+.mid-entire{
+  text-align-last:left;
+  margin-left: 600px;
+  margin-top: 60px;
+  font-family: 'Neuton', serif;
+  font-size: 1.7rem;
+
+}
+
+.contact-page{
+  background-color: #8d93ab;
+
+}
+
+.pricing-coloumn{
+  text-align: center;
+
+  padding: 3% 2%;
+}
+
+#pricing{
+  background-color: #8d6e63;
+  color:black;
+  padding: 100px;
+}
+.footer{
+  text-align:center;
+
+}
+.Download-button{
+  margin: 5% 3% 5% 0;
+  margin-left: 20px;
+  }
+  .we{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+
+  }
+  .we1{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+font-size: 30px;
+  }
+
+.lasts{
+  font-family: 'Peddana', serif;
+font-size: 3rem;
+}
+.a2{
+  color: white;
+
+}
+.redu{
+  height: 1px;
+  margin-bottom: 400px;
+  background-color: #ccf6c8;
+
+}
+#bbcolor{
+  background-color: #ccf6c8;
+  position: relative;
+  top: 900px;
+  text-align: center;
+
+}
+.im{
+  background-color: #ccf6c8;
+  
+}
